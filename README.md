@@ -47,14 +47,12 @@ an implementation of different filters and operations on images using Numpy and 
        ##### -Electrostatic model
        
   #Screen shots 
-  ![Screenshot](1.PNG)
+ 
   <img src="1.PNG" alt=" "/>
   <img src="2.PNG" alt=" "/>
   <img src="3.PNG" alt=" "/>
   <img src="4.PNG" alt=" "/>
-  ![Screenshot](2.png)
-  ![Screenshot](3.png)
-  ![Screenshot](4.png)
+ 
  
   
        
