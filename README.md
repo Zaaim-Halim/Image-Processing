@@ -2,7 +2,7 @@
 an implementation of different filters and operations on images using Numpy and little help from OpenCV and PILL
  ### -python 3.9
  ### -libraries : numpy , scipy , matplotlib , opencv , Pill
- # -filters / Operation
+ # -filters / Operations
  #### -Elementary Transformation:
        ##### -Adjust Image Brightness
        ##### -Color inversion
