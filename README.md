@@ -9,7 +9,7 @@ an implementation of different filters and operations on images using Numpy and 
        ##### -Color inversion
        ##### -Gray Scale image
        ##### -Binarization by thresholding
-       ##### -Gaussian-Noise
+       ##### -Poivre&Sel-Noise
        ##### -Gaussian-Noise
        ##### -Poivre&Sel-Noise
        ##### -Contrast enhancement
