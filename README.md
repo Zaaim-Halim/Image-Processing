@@ -1,6 +1,7 @@
 # Image-Processing
 an implementation of different filters and operations on images using Numpy and little help from OpenCV and PILL
  ### -python 3.9
+ ### -UI : tkinter
  ### -libraries : numpy , scipy , matplotlib , opencv , Pill
  # -filters / Operations
  #### -Elementary Transformation:
