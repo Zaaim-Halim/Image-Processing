@@ -114,7 +114,7 @@ class imageFrame(LabelFrame):
              self.Oimage = self.Oimage.resize((450, 360))
 
     def createCanvas(self):
-        """ canvas to deisplay the original image """
+        """ canvas to display the original image """
         self.canvas = Canvas(self)
         self.canvas.pack(fill=BOTH,expand=2)
 
@@ -176,7 +176,7 @@ class LeftPanel(LabelFrame):
         self.FLAG = False
         self.create_widgets()
 
-###############  CALBACK TO OPEN FILE DYNAMYCALLY #################
+###############  CALLBACK TO OPEN FILE DDYNAMICALLY #################
      def OpenFile(self):
         self.FLAG = True
         self.Dimage = askopenfilename(initialdir="/",
@@ -280,7 +280,7 @@ class LeftPanel(LabelFrame):
         self.c4 =  Radiobutton(self, text='Binary Image',variable=self.Itype,value=IMAGETYPE[2],font=bFont)
         self.c4.grid(column=8,row=25,padx=10,sticky="E")
 
-    ############### GETTERs AND SETTERS ############################
+    ############### GETTERS AND SETTERS ############################
 
      def updateImageFile(self,event=None):
          global image
